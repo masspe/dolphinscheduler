@@ -38,13 +38,13 @@
         <junit.version>5.7.2</junit.version>
         <selenium.version>3.141.59</selenium.version>
         <lombok.version>1.18.24</lombok.version>
-        <assertj-core.version>3.23.1</assertj-core.version>
+        <assertj-core.version>3.27.7</assertj-core.version>
         <awaitility.version>4.1.0</awaitility.version>
         <kotlin.version>1.5.30</kotlin.version>
         <slf4j-api.version>1.7.36</slf4j-api.version>
         <log4j-slf4j-impl.version>2.17.2</log4j-slf4j-impl.version>
-        <guava.version>31.0.1-jre</guava.version>
-        <jackson.version>2.13.2</jackson.version>
+        <guava.version>32.0.0-jre</guava.version>
+        <jackson.version>2.18.9</jackson.version>
         <checkstyle.version>3.1.2</checkstyle.version>
     </properties>
 
